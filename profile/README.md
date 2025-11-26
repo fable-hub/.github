@@ -1,7 +1,7 @@
 # Fable Hub
 
-**Fable Hub** is a community-driven umbrella organization for F# → JavaScript ecosystem projects.
-Its purpose is to provide a stable, neutral home for libraries, tools, and experiments that support the Fable compiler.
+**Fable Hub** is a community-driven umbrella organization for Fable ecosystem projects.
+Its purpose is to provide a stable, neutral home for libraries, tools, and experiments.
 
 ## Purpose
 
